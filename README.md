@@ -5,15 +5,6 @@
   </a>
 </div>
 
-<div align="right">
-  <img height="140" src="https://i.pinimg.com/originals/22/6a/2f/226a2f82a436366941398a9f31642581.gif"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
 
 ---
 
@@ -30,9 +21,14 @@
 
 
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/c3/9e/4c/c39e4c4c5a0de898cece8ead86e41cf0.gif"  />
+<div align="right">
+  <img height="140" src="https://i.pinimg.com/originals/22/6a/2f/226a2f82a436366941398a9f31642581.gif"  />
 </div>
+
+###
+
+<p align="left"></p>
+
 
 ###
 
