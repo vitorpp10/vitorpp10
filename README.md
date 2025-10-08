@@ -56,7 +56,7 @@
 <div style="flex-basis: 48%;">
     <h3>Social Medias</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/vitor-p%C3%A1dua-7500a3365/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-de-padua/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/5/?ogbl#inbox" target="_blank">
