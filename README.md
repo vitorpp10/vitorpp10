@@ -43,12 +43,13 @@
 <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
 ###
+
 <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
 <div align="left">
@@ -64,17 +65,18 @@
 
 ###
 
-  <div style="flex-basis: 48%;">
-    <h3>Social Medias</h3>
 <div align="left">
+  <a href="https://www.linkedin.com/in/vitor-p%C3%A1dua-7500a3365/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
   <a href="https://mail.google.com/mail/u/5/?ogbl#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/paduaa__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  <a href="https://stackoverflow.com/users/31647568/vitor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="30" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/vitor-p%C3%A1dua-7500a3365/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <a href="https://www.hackerrank.com/profile/vitorprofission1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"  />
   </a>
 </div>
 
