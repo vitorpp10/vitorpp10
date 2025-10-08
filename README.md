@@ -1,15 +1,5 @@
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-
----
-
-* my name is vitor, and my dream is to work with TI and AI. ✨
-* 💻 i'm currently studying Computer Science and i'm in my second semester.
+* my name is vitor, and my dream is to work with TI and AI.
+* i'm currently studying Computer Science and i'm in my second semester.
 
 <details>
   <summary> more about me</summary>
