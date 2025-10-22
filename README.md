@@ -72,5 +72,7 @@
 
 ###
 
+---
+
 ## Portfolio:
 - [Python Projects](https://github.com/vitorpp10/python-projects)
