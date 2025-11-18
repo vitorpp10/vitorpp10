@@ -54,9 +54,6 @@
   <a href="https://www.linkedin.com/in/vitor-de-padua/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/5/?ogbl#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
   <a href="https://stackoverflow.com/users/31647568/vitor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="30" alt="stackoverflow logo"  />
   </a>
@@ -67,5 +64,7 @@
 
 ###
 
-# Portfolio:
+---
+
+# portfolio:
 - [Python Projects](https://github.com/vitorpp10/python-projects)
