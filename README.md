@@ -65,3 +65,4 @@
 ###
 # portfolio:
 - [Python Projects](https://github.com/vitorpp10/python-projects)
+- [Python Automations](https://github.com/vitorpp10/Python-Automations)
