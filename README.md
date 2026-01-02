@@ -41,21 +41,6 @@ linux, networking, concurrency and performance.
 
 ###
 
-<h3>social medias</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/vitor-de-padua/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="26" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="https://stackoverflow.com/users/31647568/vitor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" height="26" alt="stackoverflow logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.hackerrank.com/profile/vitorprofission1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="26" alt="hackerrank logo" />
-  </a>
-</div>
-
 # portfolio:
 - [Python Projects](https://github.com/vitorpp10/python-projects)
 - [Python Automations](https://github.com/vitorpp10/Python-Automations)
