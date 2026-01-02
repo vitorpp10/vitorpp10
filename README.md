@@ -1,5 +1,5 @@
-* my name is vitor,
-* i'm currently studying computer science focused on Linux internals, systems programming and performance.
+* Computer Science student focused on understanding how software works under the hood:
+Linux, networking, concurrency and performance.
 
 <details>
   <summary> more about me</summary>
