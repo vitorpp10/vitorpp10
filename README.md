@@ -21,21 +21,14 @@ linux, networking, concurrency and performance.
 
 # skills
 
-###
-
-## Core Focus
-- Linux Internals
-- Systems Programming
-- Networking & Performance
-  
-###
-
 <div style="flex-basis: 48%;">
-    <h3>core focus</h3>
+    <h3>languages</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -52,6 +45,10 @@ linux, networking, concurrency and performance.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+###
+# portfolio:
+- [Python Projects](https://github.com/vitorpp10/python-projects)
+- [Python Automations](https://github.com/vitorpp10/Python-Automations)
 
 ###
 
@@ -68,8 +65,3 @@ linux, networking, concurrency and performance.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-# portfolio:
-- [Python Projects](https://github.com/vitorpp10/python-projects)
-- [Python Automations](https://github.com/vitorpp10/Python-Automations)
