@@ -47,7 +47,7 @@ linux, networking, concurrency and performance.
 
 ###
 
-<h3>social medias</h3>
+# social medias
 <div align="left">
   <a href="https://www.linkedin.com/in/vitor-de-padua/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="26" alt="linkedin logo" />
