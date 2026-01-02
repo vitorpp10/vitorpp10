@@ -1,5 +1,5 @@
-* my name is vitor, and my dream is to work with TI and AI.
-* i'm currently studying Computer Science and i'm in my second semester.
+* my name is vitor,
+* i'm currently studying computer science focused on Linux internals, systems programming and performance.
 
 <details>
   <summary> more about me</summary>
