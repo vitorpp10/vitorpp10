@@ -41,12 +41,6 @@ linux, networking, concurrency and performance.
 
 ###
 
-# portfolio:
-- [Python Projects](https://github.com/vitorpp10/python-projects)
-- [Python Automations](https://github.com/vitorpp10/Python-Automations)
-
-###
-
 <h3>social medias</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/vitor-de-padua/" target="_blank">
@@ -61,3 +55,7 @@ linux, networking, concurrency and performance.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="26" alt="hackerrank logo" />
   </a>
 </div>
+
+# portfolio:
+- [Python Projects](https://github.com/vitorpp10/python-projects)
+- [Python Automations](https://github.com/vitorpp10/Python-Automations)
