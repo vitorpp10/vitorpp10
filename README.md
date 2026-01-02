@@ -1,5 +1,5 @@
-* Computer Science student focused on understanding how software works under the hood:
-Linux, networking, concurrency and performance.
+* computer science student focused on understanding how software works under the hood:
+linux, networking, concurrency and performance.
 
 <details>
   <summary> more about me</summary>
@@ -23,8 +23,15 @@ Linux, networking, concurrency and performance.
 
 ###
 
+## Core Focus
+- Linux Internals
+- Systems Programming
+- Networking & Performance
+  
+###
+
 <div style="flex-basis: 48%;">
-    <h3>programming languages</h3>
+    <h3>core focus</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -34,7 +41,7 @@ Linux, networking, concurrency and performance.
 ###
 
 <div style="flex-basis: 48%;">
-    <h3>tools & frameworks</h3>
+    <h3>tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
