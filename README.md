@@ -1,11 +1,11 @@
-## About me
+## about me
 
-18-year-old Computer Science student from Brazil. Passionate about performance optimization, low-level systems, and game development. Improving my English to work abroad.
+18-year-old computer science student from brazil. focused on performance optimization, low-level systems, and game development. improving my english to pursue international opportunities.
 
-## Skills
+## skills
 
-- **Languages**: C, C++, Python
-- **Tools**: Linux, Git, Bash
+- **languages**: c, c++, python
+- **tools**: linux, git, bash
 
-## Portfolio:
-- [Project MVP](https://github.com/vitorpp10/project-mvp/tree/main)
+## portfolio:
+- [project mvp](https://github.com/vitorpp10/project-mvp/tree/main)
