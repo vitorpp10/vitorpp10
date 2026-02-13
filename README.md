@@ -6,6 +6,3 @@
 
 - **languages**: c, c++, python
 - **tools**: linux, git, bash
-
-## portfolio:
-- [project mvp](https://github.com/vitorpp10/project-mvp/tree/main)
