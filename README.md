@@ -6,15 +6,11 @@ building a strong foundation in systems engineering through hands-on experiments
 
 **interests:** systems programming (c/c++), performance, os internals, backend infrastructure.
 
----
-
 ## skills
 
 - **languages:** c, c++, python  
 - **core:** memory, processes (fork/exec), file systems (open/read/write/lseek), linux internals (/proc, syscalls)  
 - **tools:** linux, git, bash, tmux, neovim  
-
----
 
 ## projects
 
@@ -23,8 +19,6 @@ building a strong foundation in systems engineering through hands-on experiments
 - **linux memory monitor** — reads rss directly from /proc  
 - **mini shell** — fork + exec process execution  
 - **python automations** — scraping & automation  
-
----
 
 ## goal
 this journey is based on first-principles learning. instead of relying on abstractions, the goal is to understand how things actually work under the hood — from memory layout and cpu execution to disk access and process management.
