@@ -1,5 +1,3 @@
-# vitor
-
 ## about me
 19-year-old computer science student from brazil, focused on low-level systems, performance optimization, and understanding how software interacts directly with hardware.
 
