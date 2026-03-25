@@ -46,5 +46,5 @@ currently building a strong foundation in systems engineering through hands-on e
 this journey is based on first-principles learning. instead of relying on abstractions, the goal is to understand how things actually work under the hood — from memory layout and cpu execution to disk access and process management.
 
 ## links
-* [more c++](https://github.com/vitorpp10/cpp-systems-lab)
-* [more python](https://github.com/vitorpp10/python-automations)
+* [more c++](https://github.com/vitorpp10/cpp-system-lab.git)
+* [more python](https://github.com/vitorpp10/Python-Automations.git)
