@@ -25,5 +25,5 @@ this journey is based on first-principles learning. instead of relying on abstra
 
 ## links
 
-- [more c++](https://github.com/vitorpp10/cpp-system-lab.git)  
+- [more c++](https://github.com/vitorpp10/cpp-system-lab/tree/main/experiments)  
 - [more python](https://github.com/vitorpp10/Python-Automations.git)  
