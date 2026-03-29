@@ -17,7 +17,7 @@ building a strong foundation in systems engineering through hands-on experiments
 - **c++ systems lab** — low-level experiments (memory, processes, disk i/o)  
 - **miniDB-KV** — key-value store with file descriptors + binary serialization  
 - **linux memory monitor** — reads rss directly from /proc  
-- **mini shell** — fork + exec process execution  
+- **mini shell** — fork + exec process execution  -> - [mini-shell-docs-here](https://github.com/vitorpp10/mini-shell-cpp.git)  
 - **python automations** — scraping & automation  
 
 ## goal
