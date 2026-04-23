@@ -8,7 +8,7 @@ building a strong foundation in systems engineering through hands-on experiments
 
 ## skills
 
-- **languages:** c, c++, python  
+- **languages:** c, c++, python, java
 - **core:** memory, processes (fork/exec), file systems (open/read/write/lseek), linux internals (/proc, syscalls)  
 - **tools:** linux, git, bash, tmux, neovim  
 
