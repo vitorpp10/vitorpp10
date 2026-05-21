@@ -20,9 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
-###
-
-
 - **core:** memory, processes (fork/exec), file systems (open/read/write/lseek), linux internals (/proc, syscalls)  
 - **tools:** linux, git, bash, tmux, neovim  
 
@@ -34,9 +31,6 @@
 - **mini shell** — fork + exec process execution -> [mini-shell-docs-here](https://github.com/vitorpp10/mini-shell-cpp.git)  
 - **proc-monitor** — utility that forks commands, captures stdout/stderr via pipes, and handles sigint for graceful child termination
 - **python automations** — scraping & automation  
-
-## goal
-this journey is based on first-principles learning. instead of relying on abstractions, the goal is to understand how things actually work under the hood — from memory layout and cpu execution to disk access and process management.
 
 ## links
 
