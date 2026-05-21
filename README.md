@@ -4,31 +4,13 @@
 
 ## skills
 
-### low-level & systems
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-</div>
+- **low-level & systems:** c, c++, linux
+- **web & automation:** java, javascript, HTML5, CSS3, python
+- **tools:** git, vim, nvim
 
-- **memory & processes:** fork, exec, rss management, ipc (pipes), signal handling (sigint).
-- **file systems & internals:** open, read, write, lseek, /proc parsing, syscalls.
-
-### web & automation
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-</div>
-
-### tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo" />
-</div>
+### core systems:
+- **memory & processes:** fork, exec, rss management, ipc (pipes), and signal handling (sigint).
+- **file systems & internals:** open, read, write, lseek, /proc parsing, and system calls (syscalls).
 
 ## projects
 
