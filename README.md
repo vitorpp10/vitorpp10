@@ -1,14 +1,28 @@
 ## about me
 
-19-year-old computer science student from brazil focused on low-level systems, performance optimization, and understanding how software interacts with hardware.
-
-building a strong foundation in systems engineering through hands-on experiments with memory, processes, disk i/o, and the linux kernel.
-
-**interests:** systems programming (c/c++), performance, os internals, backend infrastructure.
+19-year-old computer science student focused on low-level systems, performance optimization, and computer architecture. building a solid foundation in systems engineering through hands-on experiments with the linux kernel, memory management, and disk i/o. currently exploring frontend development and web technologies to expand my full-stack understanding.
 
 ## skills
 
-- **languages:** c, c++, python, java
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+</div>
+
+###
+
+
 - **core:** memory, processes (fork/exec), file systems (open/read/write/lseek), linux internals (/proc, syscalls)  
 - **tools:** linux, git, bash, tmux, neovim  
 
