@@ -4,6 +4,8 @@
 
 ## skills
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="7" />
@@ -22,8 +24,9 @@
 
 ###
 
-- **core:** memory, processes (fork/exec), file systems (open/read/write/lseek), linux internals (/proc, syscalls)  
-- **tools:** linux, git, bash, tmux, neovim  
+**core systems**:
+- memory & processes: fork, exec, rss management, ipc (pipes), and signal handling (sigint).
+- file systems & internals: open, read, write, lseek, /proc parsing, and system calls (syscalls).
 
 ## projects
 
