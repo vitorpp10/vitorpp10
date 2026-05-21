@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
+
 - **core:** memory, processes (fork/exec), file systems (open/read/write/lseek), linux internals (/proc, syscalls)  
 - **tools:** linux, git, bash, tmux, neovim  
 
