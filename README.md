@@ -6,5 +6,5 @@ i am a 19-year-old computer science student focused on low-level systems, perfor
 
 ### systems
 
-* **memory & processes:** advanced multi-threading, `fork`/`exec` orchestration, custom `malloc` experiments, rss memory management, ipc (`pipes`), and posix signal handling.
-* **file systems & storage:** linux `/proc` filesystem parsing, binary serialization, low-level i/o (`open`, `lseek`, `write`), and high-performance system calls.
+* **memory & processes:** multi-threading, process control (`fork`/`exec`), memory allocation (`malloc`), inter-process communication (`pipes`), and signal handling.
+* **file systems & storage:** reading the `/proc` filesystem, binary formats, low-level i/o (`open`, `read`, `write`), and direct linux syscalls.
