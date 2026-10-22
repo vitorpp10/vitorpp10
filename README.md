@@ -35,6 +35,7 @@ untouched.
 | **[markdownify](https://github.com/vitorpp10/markdownify)** | VS Code extension: messy text → clean Markdown. Offline rules first, AI as refinement. |
 | **[mini-shell-cpp](https://github.com/vitorpp10/mini-shell-cpp)** | Linux shell from scratch: REPL, `fork`/`exec`, background jobs, and built-ins that must run in the parent (`cd` via `chdir`). |
 | **[mini-db-kv](https://github.com/vitorpp10/mini-db-kv)** | Key-value store with a manual on-disk layout: binary records with a magic byte, `lseek` offsets, and an in-memory index. |
+| **[proc-monitor](https://github.com/vitorpp10/proc-monitor)** | Command wrapper using `fork`/`execvp`, `pipe`/`dup2` to capture stdout and stderr, a `SIGINT` handler that kills the child cleanly, and a copy-on-write demonstration. |
 | **[live-file-scanner](https://github.com/vitorpp10/live-file-scanner)** | Real-time file scanner using `inotify` and forked workers. |
 | **[cpp-system-lab](https://github.com/vitorpp10/cpp-system-lab)** | C++ systems lab: months of code and theory on memory, processes and file systems. |
 
