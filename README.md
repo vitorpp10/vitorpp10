@@ -62,5 +62,4 @@ cannot break things.
 
 ---
 
-*Currently: 4th semester of Computer Science. Intern at the Brazilian Superior
-Military Court, on the technology team.*
+Currently: 4th semester of Computer Science at CEUB. Research scholar (FAPDF) working on performance optimization of public-sector systems with C++, and IT intern at the Brazilian Superior Military Court.
