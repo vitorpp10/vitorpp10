@@ -1,4 +1,4 @@
-# vitor
+# vitor de pádua
 
 I'm a 19-year-old computer science student. I build developer tools and systems
 software, and I write about what I'm learning.
